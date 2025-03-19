@@ -65,7 +65,7 @@ public class Calculator implements ActionListener {
         panel = new JPanel();
         panel.setBounds(50, 100, 300, 300);
         panel.setLayout(new GridLayout(4, 4, 10, 10));
-        panel.setBackground(Color.cyan);
+        panel.setBackground(Color.lightGray);
 
         panel.add(numberButtons[1]);
         panel.add(numberButtons[2]);
