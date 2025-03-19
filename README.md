@@ -18,12 +18,12 @@ A simple **calculator application** built using **Java Swing**, featuring a user
 ## 📦 Installation & Usage  
 
 ### **For Windows Users (.exe File)**  
-1. **Download** the `Calculator.exe` from the [Releases](https://github.com/your-username/your-repo/releases).  
+1. **Download** the `Calculator.exe` from the [Releases](https://github.com/MadhavArya/Calculator-JAVA/releases).  
 2. **Double-click** to run the application – no installation required!  
 
 ### **For Other Platforms (JAR File)**  
 1. Make sure **Java (JDK 8 or higher)** is installed.  
-2. Download the `Calculator.jar` from [Releases](https://github.com/your-username/your-repo/releases).  
+2. Download the `Calculator.jar` from [Releases](https://github.com/MadhavArya/Calculator-JAVA/releases).  
 3. Run the application using:  
    ```bash
    java -jar Calculator.jar
